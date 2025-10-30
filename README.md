@@ -39,11 +39,8 @@ Prikupljamo samo anonimizovane podatke o korišćenju i dijagnostici (preko Appl
 
 ## 🛠️ Tehnički Detalji
 
-*(Ovaj deo se popunjava po potrebi za developere/saradnike. Ako je ovo samo za internu dokumentaciju, može biti pojednostavljen.)*
-
-* **Platforme:** iOS
-* **Minimalna Verzija OS-a:** [Npr. iOS 16.0]
-* **Korišćene Tehnologije:** [Npr. Swift, Core Audio, ...]
+* **Platforme:** iOS, Android
+* **Minimalna Verzija OS-a:** [iOS 16.0]
 
 ## 📬 Kontakt
 
