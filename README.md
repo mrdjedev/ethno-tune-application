@@ -52,7 +52,7 @@ Prikupljamo samo anonimizovane podatke o korišćenju i dijagnostici (preko Appl
 Za sva pitanja, tehničku podršku, ili pravne upite u vezi sa autorskim pravima, molimo kontaktirajte Autora:
 
 * **Ime:** Darko Citić
-* **E-mail:** [Vaša zvanična kontakt e-mail adresa]
+* **E-mail:** [tuneethno@gmail.com]
 * **Lokacija:** Užice, Srbija
 
 ---
