@@ -14,7 +14,10 @@ Ova Politika privatnosti objašnjava kako **Darko Citić, Užice** (u daljem tek
 
 Aplikacija služi za reprodukciju muzičkog sadržaja srpske narodne muzike, negovanje kulturne baštine i popularizaciju srpskog folklora.
 
-* **Autorska Prava:** Puna autorska prava na celokupan muzički sadržaj polaže Autor – Darko Citić. Korišćenjem Aplikacije prihvatate ove uslove.
+* **Autorska Prava:** Puna autorska prava na celokupan muzički sadržaj polaže Autor – Darko Citić.
+Sadržaj nije dozvoljeno koristiti u komercijalne svrhe. Svako pohranjivanje ili kopiranje sadržaja u druge svrhe osim lične upotrebe je strogo zabranjeno. U slučaju neovlaštenog, nedopuštenog i/ili nezakonitog korištenja bilo kojeg dela sadržaja, Autor Darko Citić zadržava pravo tražiti naknadu štete u punom iznosu, te pokrenuti odgovarajuće pravne, građanske i/ili krivične postupke pred nadležnim organima.
+
+Korišćenjem Aplikacije prihvatate ove uslove.
 
 ### 2. Informacije koje prikupljamo
 
@@ -22,7 +25,7 @@ Naša primarna misija zahteva minimalno prikupljanje podataka.
 
 #### A. Podaci koje **ne** prikupljamo direktno:
 
-Aplikacija **Ethno tune ne prikuplja** direktno nikakve lične podatke koji bi vas mogli identifikovati, kao što su ime, e-mail adresa, lokacija (GPS), telefonski broj, kontakti, finansijske informacije ili osetljivi podaci.
+Aplikacija **Ethno tune ne prikuplja** direktno nikakve lične podatke koji bi vas mogli identifikovati, kao što su lokacija (GPS), telefonski broj, kontakti, finansijske informacije.
 
 #### B. Podaci koje prikupljaju **Treće Strane** (Automatsko prikupljanje):
 
