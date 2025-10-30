@@ -34,8 +34,8 @@ Naša posvećenost privatnosti korisnika je maksimalna, fokusirajući se na mini
 
 Prikupljamo samo anonimizovane podatke o korišćenju i dijagnostici (preko Apple ili standardnih analitičkih servisa) isključivo radi unapređenja performansi aplikacije.
 
-* **Puni tekst Politike Privatnosti:** [Puna Politika Privatnosti (EN)] [Vaš_URL_ka_Privacy_Policy_stranici_na_engleskom](https://github.com/mrdjedev/ethno-tune-application/blob/main/privacy-policy-en.md)
-* **Puni tekst Politike Privatnosti:** [Puna Politika Privatnosti (SR)] [Vaš_URL_ka_Privacy_Policy_stranici_na_srpskom](https://github.com/mrdjedev/ethno-tune-application/blob/main/privacy-policy-rs.md)
+* **Puni tekst Politike Privatnosti:** [Puna Politika Privatnosti (EN)] [https://github.com/mrdjedev/ethno-tune-application/blob/main/privacy-policy-en.md]
+* **Puni tekst Politike Privatnosti:** [Puna Politika Privatnosti (SR)] [https://github.com/mrdjedev/ethno-tune-application/blob/main/privacy-policy-rs.md]
 
 ## 🛠️ Tehnički Detalji
 
