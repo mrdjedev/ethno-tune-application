@@ -1,49 +1,42 @@
-# 🔒 POLITIKA PRIVATNOSTI / PRIVACY POLICY
+## 🇬🇧 ENGLISH LANGUAGE: PRIVACY POLICY FOR "ETHNO TUNE"
 
-Ovaj dokument sadrži Politiku Privatnosti za mobilnu aplikaciju **Ethno tune** na srpskom i engleskom jeziku.
+**Effective Date:** October 30, 2025
 
----
+This Privacy Policy explains how **Darko Citić, Užice** (hereinafter referred to as the "Author" or "We") collects, uses, and protects information related to your use of the mobile application **Ethno tune** (hereinafter referred to as the "Application").
 
-## 🇷🇸 SRPSKI JEZIK: POLITIKA PRIVATNOSTI ZA "ETHNO TUNE"
+### 1. Mission and Copyrights
 
-**Datum stupanja na snagu:** [30.10.2025]
+The Application is dedicated to the reproduction of Serbian folk music content, nurturing cultural heritage, and popularizing Serbian folklore.
 
-Ova Politika privatnosti objašnjava kako **Darko Citić, Užice** (u daljem tekstu "Autor" ili "Mi") prikuplja, koristi i štiti informacije u vezi sa vašim korišćenjem mobilne aplikacije **Ethno tune** (u daljem tekstu "Aplikacija").
+* **Copyrights:** The Author – Darko Citić – holds the full copyright to all musical content. The content may not be used for commercial purposes. Any storage or copying of the content for purposes other than personal use is strictly prohibited. In case of unauthorized, impermissible, and/or unlawful use of any part of the content, the Author Darko Citić reserves the right to seek full damages and initiate appropriate legal, civil, and/or criminal proceedings before the competent authorities.
 
-### 1. Misija i Autorska Prava
+By using the Application, you accept these terms.
 
-Aplikacija služi za reprodukciju muzičkog sadržaja srpske narodne muzike, negovanje kulturne baštine i popularizaciju srpskog folklora.
+### 2. Information We Collect
 
-* **Autorska Prava:** Puna autorska prava na celokupan muzički sadržaj polaže Autor – Darko Citić.
-Sadržaj nije dozvoljeno koristiti u komercijalne svrhe. Svako pohranjivanje ili kopiranje sadržaja u druge svrhe osim lične upotrebe je strogo zabranjeno. U slučaju neovlaštenog, nedopuštenog i/ili nezakonitog korištenja bilo kojeg dela sadržaja, Autor Darko Citić zadržava pravo tražiti naknadu štete u punom iznosu, te pokrenuti odgovarajuće pravne, građanske i/ili krivične postupke pred nadležnim organima.
+Our primary mission requires minimal data collection.
 
-Korišćenjem Aplikacije prihvatate ove uslove.
+#### A. Data We **Do Not** Collect Directly:
 
-### 2. Informacije koje prikupljamo
+The **Ethno tune** Application **does not** directly collect any personal data that could identify you, such as location (GPS), phone number, contacts, or financial information.
 
-Naša primarna misija zahteva minimalno prikupljanje podataka.
+#### B. Data Collected by **Third Parties** (Automatic Collection):
 
-#### A. Podaci koje **ne** prikupljamo direktno:
+The Application utilizes the operating system's built-in services (e.g., Apple's) which may collect the following data for diagnostics and improvement:
 
-Aplikacija **Ethno tune ne prikuplja** direktno nikakve lične podatke koji bi vas mogli identifikovati, kao što su lokacija (GPS), telefonski broj, kontakti, finansijske informacije.
-
-#### B. Podaci koje prikupljaju **Treće Strane** (Automatsko prikupljanje):
-
-Aplikacija koristi ugrađene usluge operativnog sistema (npr. Apple-ove) koje mogu prikupljati sledeće podatke za dijagnostiku i poboljšanje:
-
-| Kategorija Podataka | Tip Podataka | Svrha prikupljanja | Povezano sa Vama? |
+| Data Category | Data Type | Purpose of Collection | Linked to You? |
 | :--- | :--- | :--- | :--- |
-| **Upotreba Podataka** | Interakcija sa proizvodom | Analitika performansi aplikacije | **NE** (Anonimizovano) |
-| **Dijagnostika** | Podaci o padovima | Otklanjanje grešaka | **NE** (Anonimizovano) |
+| **Usage Data** | Product Interaction | App Performance Analytics | **NO** (Anonymized) |
+| **Diagnostics** | Crash Data | Bug Fixing | **NO** (Anonymized) |
 
-### 3. Korišćenje i Deljenje Informacija
+### 3. Use and Sharing of Information
 
-* **Korišćenje:** Informacije koristimo isključivo za održavanje, poboljšanje funkcionalnosti Aplikacije i ispravljanje grešaka.
-* **Deljenje:** **Ne prodajemo** i **ne iznajmljujemo** vaše lične podatke. Podatke delimo samo sa trećim stranama koje nam pomažu u radu Aplikacije (npr. analitičke usluge) i to isključivo u anonimizovanom ili agregiranom obliku. **Ne koristimo** podatke za oglašavanje trećih strana ili praćenje.
+* **Use:** We use the information solely for maintaining, improving the Application's functionality, and fixing bugs.
+* **Sharing:** We **do not sell** or **rent** your personal data. We share data only with third parties who assist us in operating the Application (e.g., analytics services) and strictly in an anonymized or aggregated form. We **do not use** the data for third-party advertising or tracking.
 
-### 4. Kontaktirajte nas
+### 4. Contact Us
 
-Za sva pitanja u vezi sa ovom Politikom privatnosti, kontaktirajte nas na:
+For any questions regarding this Privacy Policy, please contact us at:
 
-* **E-mail:** [tuneethno@gmail.com]
-* **Adresa:** [Kneza Lazara 1, Užice 31000]
+* **Email:** tuneethno@gmail.com
+* **Address:** Kneza Lazara 1, Užice 31000
